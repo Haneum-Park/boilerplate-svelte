@@ -1,0 +1,38 @@
+/*
+ * ======================
+ *    GLOBAL VARIABLES
+ * ======================
+ */
+:root {
+  --color-white: #fff;
+  --color-black: #000;
+  --color-red: #ff0000;
+  --color-green: #00ff00;
+  --color-blue: #0000ff;
+
+  --color-gray-0: #f8f9fa;
+  --color-gray-1: #f1f3f5;
+  --color-gray-2: #e9ecef;
+  --color-gray-3: #dee2e6;
+  --color-gray-4: #ced4da;
+  --color-gray-5: #adb5bd;
+  --color-gray-6: #868e96;
+  --color-gray-7: #495057;
+  --color-gray-8: #343a40;
+  --color-gray-9: #212529;
+
+  --color-primary: #031737;
+  --color-secondary: #233984;
+  --color-third: #80B9FF;
+  --color-fourth: #CEDDEF;
+  --color-buy: #FF5B5B;
+  --color-sell: #0132CC;
+  --color-btn-default: #999999;
+  --color-btn-active: #1AC960;
+  --color-default: #6F6F6F;
+
+
+  --aside-width: calc(220rem / 16);
+  --main-width: calc(100vw - 220rem / 16);
+  --margin-factor: 1rem;
+}
